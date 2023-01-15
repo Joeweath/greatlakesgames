@@ -1,0 +1,12 @@
+// build out helper serv function to get info on reviews in backend
+// populte author in that function
+// it would 
+// instead of url route, implement it in gameshow controller
+//implement that function when dealing with the game show controller
+
+// within game controller for the show
+// instead of populate
+// populate the reviews to the game and then after doing that
+// should have access to game . reviews 
+
+//

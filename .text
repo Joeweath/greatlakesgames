@@ -1,0 +1,8 @@
+// { if (review.author.name) {
+//   return (
+//     <p>posted by: {review.author?.name}</p>
+//   )
+// }}
+
+// { review.author.name ? <p>posted by: {review.author?.name}</p> : null }
+

@@ -1,0 +1,15 @@
+.gamecard {
+  padding: 10px;
+  width: 100%;
+}
+
+.gamepic img {
+  object-fit: cover;
+  width: 375px;
+  height: 400px;
+}
+
+.gamepic:hover {
+  box-shadow: 5px 5px 5px 5px #70ff70;
+}
+

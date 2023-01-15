@@ -1,0 +1,43 @@
+.pageBody {
+  margin: 20px 50px 0 50px;
+  color: white;
+  text-align: center;
+  margin-bottom: 300px;
+}
+
+.imgAndDesc {
+  display: inline-block;
+  flex-direction: column;
+  margin-right: 200px;
+  margin-bottom: 30px;
+}
+
+.detailsContainer {
+  display: inline-block;
+  flex-direction: column;
+  position: relative;
+  margin-left: 20px;
+  top: -350px;
+}
+
+.desc {
+  width: 375px;
+}
+
+.detailsImg {
+  object-fit: cover;
+  width: 375px;
+  height: 400px;
+  float: left;
+  margin: 10px;
+}
+
+.reviewContainer {
+  border-radius: 5px;
+  padding: 35px;
+  margin: 75px;
+  display: flex;
+  border: 2px solid white;
+  flex-direction: column;
+} 
+
